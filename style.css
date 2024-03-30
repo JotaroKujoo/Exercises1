@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7pc;
+    font-family:'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cardContainer{
+    background-color: rgba(190, 255, 255, 0.854);
+    width: 40%;
+    padding: 2pc;
+}
